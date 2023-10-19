@@ -1,0 +1,22 @@
+Purpose of using the `var()` function in CSS:
+
+Custom Properties: 
+	`var()` is used with custom properties, which are user-defined variables in CSS.
+
+Reusability: 
+	It allows you to define and reuse values throughout your CSS.
+
+Dynamic Theming: 
+	CSS variables enable dynamic theming by changing the values of custom properties.
+
+Consistency: 
+	Promotes consistency by centralizing values in one place.
+
+Maintainability: 
+	Makes it easier to maintain and update styles in a large codebase.
+
+Readability: 
+	Provides context with descriptive custom property names.
+
+Simplifying Responsive Design: 
+	Useful for managing responsive design breakpoints.
